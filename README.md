@@ -35,4 +35,20 @@ My solutions to LeetCode problems in Java, focused on Data Structures and Algori
 |  |
 | ------- |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/jaheer02/LEETCODE_JOURNEY/tree/master/3727-maximum-alternating-sum-of-squares) |
+## Stack
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/jaheer02/LEETCODE_JOURNEY/tree/master/0094-binary-tree-inorder-traversal) |
+## Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/jaheer02/LEETCODE_JOURNEY/tree/master/0094-binary-tree-inorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/jaheer02/LEETCODE_JOURNEY/tree/master/0094-binary-tree-inorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/jaheer02/LEETCODE_JOURNEY/tree/master/0094-binary-tree-inorder-traversal) |
 <!---LeetCode Topics End-->
