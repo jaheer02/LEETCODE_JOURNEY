@@ -32,6 +32,7 @@ My solutions to LeetCode problems in Java, focused on Data Structures and Algori
 |  |
 | ------- |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/jaheer02/LEETCODE_JOURNEY/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/jaheer02/LEETCODE_JOURNEY/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/jaheer02/LEETCODE_JOURNEY/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Sorting
 |  |
@@ -57,6 +58,7 @@ My solutions to LeetCode problems in Java, focused on Data Structures and Algori
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/jaheer02/LEETCODE_JOURNEY/tree/master/0050-powx-n) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/jaheer02/LEETCODE_JOURNEY/tree/master/3723-maximize-sum-of-squares-of-digits) |
 ## Recursion
 |  |
 | ------- |
