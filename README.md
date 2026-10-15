@@ -44,18 +44,22 @@ My solutions to LeetCode problems in Java, focused on Data Structures and Algori
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/jaheer02/LEETCODE_JOURNEY/tree/master/0094-binary-tree-inorder-traversal) |
+| [0144-binary-tree-preorder-traversal](https://github.com/jaheer02/LEETCODE_JOURNEY/tree/master/0144-binary-tree-preorder-traversal) |
 ## Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/jaheer02/LEETCODE_JOURNEY/tree/master/0094-binary-tree-inorder-traversal) |
+| [0144-binary-tree-preorder-traversal](https://github.com/jaheer02/LEETCODE_JOURNEY/tree/master/0144-binary-tree-preorder-traversal) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/jaheer02/LEETCODE_JOURNEY/tree/master/0094-binary-tree-inorder-traversal) |
+| [0144-binary-tree-preorder-traversal](https://github.com/jaheer02/LEETCODE_JOURNEY/tree/master/0144-binary-tree-preorder-traversal) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/jaheer02/LEETCODE_JOURNEY/tree/master/0094-binary-tree-inorder-traversal) |
+| [0144-binary-tree-preorder-traversal](https://github.com/jaheer02/LEETCODE_JOURNEY/tree/master/0144-binary-tree-preorder-traversal) |
 ## Math
 |  |
 | ------- |
