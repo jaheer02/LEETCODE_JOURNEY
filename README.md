@@ -6,6 +6,7 @@ My solutions to LeetCode problems in Java, focused on Data Structures and Algori
 ## Array
 |  |
 | ------- |
+| [0041-first-missing-positive](https://github.com/jaheer02/LEETCODE_JOURNEY/tree/master/0041-first-missing-positive) |
 | [0078-subsets](https://github.com/jaheer02/LEETCODE_JOURNEY/tree/master/0078-subsets) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/jaheer02/LEETCODE_JOURNEY/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0228-summary-ranges](https://github.com/jaheer02/LEETCODE_JOURNEY/tree/master/0228-summary-ranges) |
@@ -32,6 +33,7 @@ My solutions to LeetCode problems in Java, focused on Data Structures and Algori
 ## Hash Table
 |  |
 | ------- |
+| [0041-first-missing-positive](https://github.com/jaheer02/LEETCODE_JOURNEY/tree/master/0041-first-missing-positive) |
 | [0229-majority-element-ii](https://github.com/jaheer02/LEETCODE_JOURNEY/tree/master/0229-majority-element-ii) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/jaheer02/LEETCODE_JOURNEY/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/jaheer02/LEETCODE_JOURNEY/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
