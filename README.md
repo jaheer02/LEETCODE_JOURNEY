@@ -65,6 +65,7 @@ My solutions to LeetCode problems in Java, focused on Data Structures and Algori
 | [0104-maximum-depth-of-binary-tree](https://github.com/jaheer02/LEETCODE_JOURNEY/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/jaheer02/LEETCODE_JOURNEY/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/jaheer02/LEETCODE_JOURNEY/tree/master/0144-binary-tree-preorder-traversal) |
+| [0543-diameter-of-binary-tree](https://github.com/jaheer02/LEETCODE_JOURNEY/tree/master/0543-diameter-of-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -73,6 +74,7 @@ My solutions to LeetCode problems in Java, focused on Data Structures and Algori
 | [0104-maximum-depth-of-binary-tree](https://github.com/jaheer02/LEETCODE_JOURNEY/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/jaheer02/LEETCODE_JOURNEY/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/jaheer02/LEETCODE_JOURNEY/tree/master/0144-binary-tree-preorder-traversal) |
+| [0543-diameter-of-binary-tree](https://github.com/jaheer02/LEETCODE_JOURNEY/tree/master/0543-diameter-of-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -82,6 +84,7 @@ My solutions to LeetCode problems in Java, focused on Data Structures and Algori
 | [0104-maximum-depth-of-binary-tree](https://github.com/jaheer02/LEETCODE_JOURNEY/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/jaheer02/LEETCODE_JOURNEY/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/jaheer02/LEETCODE_JOURNEY/tree/master/0144-binary-tree-preorder-traversal) |
+| [0543-diameter-of-binary-tree](https://github.com/jaheer02/LEETCODE_JOURNEY/tree/master/0543-diameter-of-binary-tree) |
 ## Math
 |  |
 | ------- |
@@ -150,4 +153,8 @@ My solutions to LeetCode problems in Java, focused on Data Structures and Algori
 |  |
 | ------- |
 | [2089-find-target-indices-after-sorting-array](https://github.com/jaheer02/LEETCODE_JOURNEY/tree/master/2089-find-target-indices-after-sorting-array) |
+## DP on Trees
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/jaheer02/LEETCODE_JOURNEY/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->
