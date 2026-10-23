@@ -63,6 +63,7 @@ My solutions to LeetCode problems in Java, focused on Data Structures and Algori
 | [0100-same-tree](https://github.com/jaheer02/LEETCODE_JOURNEY/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/jaheer02/LEETCODE_JOURNEY/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/jaheer02/LEETCODE_JOURNEY/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0110-balanced-binary-tree](https://github.com/jaheer02/LEETCODE_JOURNEY/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/jaheer02/LEETCODE_JOURNEY/tree/master/0144-binary-tree-preorder-traversal) |
 ## Depth-First Search
 |  |
@@ -70,6 +71,7 @@ My solutions to LeetCode problems in Java, focused on Data Structures and Algori
 | [0094-binary-tree-inorder-traversal](https://github.com/jaheer02/LEETCODE_JOURNEY/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/jaheer02/LEETCODE_JOURNEY/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/jaheer02/LEETCODE_JOURNEY/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0110-balanced-binary-tree](https://github.com/jaheer02/LEETCODE_JOURNEY/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/jaheer02/LEETCODE_JOURNEY/tree/master/0144-binary-tree-preorder-traversal) |
 ## Binary Tree
 |  |
@@ -78,6 +80,7 @@ My solutions to LeetCode problems in Java, focused on Data Structures and Algori
 | [0100-same-tree](https://github.com/jaheer02/LEETCODE_JOURNEY/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/jaheer02/LEETCODE_JOURNEY/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/jaheer02/LEETCODE_JOURNEY/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0110-balanced-binary-tree](https://github.com/jaheer02/LEETCODE_JOURNEY/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/jaheer02/LEETCODE_JOURNEY/tree/master/0144-binary-tree-preorder-traversal) |
 ## Math
 |  |
