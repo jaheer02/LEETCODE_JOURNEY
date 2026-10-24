@@ -92,6 +92,7 @@ My solutions to LeetCode problems in Java, focused on Data Structures and Algori
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/jaheer02/LEETCODE_JOURNEY/tree/master/0050-powx-n) |
+| [2409-count-days-spent-together](https://github.com/jaheer02/LEETCODE_JOURNEY/tree/master/2409-count-days-spent-together) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/jaheer02/LEETCODE_JOURNEY/tree/master/3723-maximize-sum-of-squares-of-digits) |
 ## Recursion
 |  |
@@ -124,6 +125,7 @@ My solutions to LeetCode problems in Java, focused on Data Structures and Algori
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/jaheer02/LEETCODE_JOURNEY/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [2409-count-days-spent-together](https://github.com/jaheer02/LEETCODE_JOURNEY/tree/master/2409-count-days-spent-together) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/jaheer02/LEETCODE_JOURNEY/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## String Matching
 |  |
