@@ -11,6 +11,7 @@ My solutions to LeetCode problems in Java, focused on Data Structures and Algori
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/jaheer02/LEETCODE_JOURNEY/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0228-summary-ranges](https://github.com/jaheer02/LEETCODE_JOURNEY/tree/master/0228-summary-ranges) |
 | [0229-majority-element-ii](https://github.com/jaheer02/LEETCODE_JOURNEY/tree/master/0229-majority-element-ii) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/jaheer02/LEETCODE_JOURNEY/tree/master/0350-intersection-of-two-arrays-ii) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/jaheer02/LEETCODE_JOURNEY/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/jaheer02/LEETCODE_JOURNEY/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/jaheer02/LEETCODE_JOURNEY/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
@@ -37,6 +38,7 @@ My solutions to LeetCode problems in Java, focused on Data Structures and Algori
 | ------- |
 | [0041-first-missing-positive](https://github.com/jaheer02/LEETCODE_JOURNEY/tree/master/0041-first-missing-positive) |
 | [0229-majority-element-ii](https://github.com/jaheer02/LEETCODE_JOURNEY/tree/master/0229-majority-element-ii) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/jaheer02/LEETCODE_JOURNEY/tree/master/0350-intersection-of-two-arrays-ii) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/jaheer02/LEETCODE_JOURNEY/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/jaheer02/LEETCODE_JOURNEY/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 ## Greedy
@@ -49,6 +51,7 @@ My solutions to LeetCode problems in Java, focused on Data Structures and Algori
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/jaheer02/LEETCODE_JOURNEY/tree/master/0229-majority-element-ii) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/jaheer02/LEETCODE_JOURNEY/tree/master/0350-intersection-of-two-arrays-ii) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/jaheer02/LEETCODE_JOURNEY/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/jaheer02/LEETCODE_JOURNEY/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Stack
@@ -121,6 +124,7 @@ My solutions to LeetCode problems in Java, focused on Data Structures and Algori
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/jaheer02/LEETCODE_JOURNEY/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/jaheer02/LEETCODE_JOURNEY/tree/master/0350-intersection-of-two-arrays-ii) |
 ## String
 |  |
 | ------- |
@@ -158,6 +162,7 @@ My solutions to LeetCode problems in Java, focused on Data Structures and Algori
 ## Binary Search
 |  |
 | ------- |
+| [0350-intersection-of-two-arrays-ii](https://github.com/jaheer02/LEETCODE_JOURNEY/tree/master/0350-intersection-of-two-arrays-ii) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/jaheer02/LEETCODE_JOURNEY/tree/master/2089-find-target-indices-after-sorting-array) |
 ## DP on Trees
 |  |
