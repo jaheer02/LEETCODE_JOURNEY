@@ -6,6 +6,7 @@ My solutions to LeetCode problems in Java, focused on Data Structures and Algori
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/jaheer02/LEETCODE_JOURNEY/tree/master/0001-two-sum) |
 | [0041-first-missing-positive](https://github.com/jaheer02/LEETCODE_JOURNEY/tree/master/0041-first-missing-positive) |
 | [0078-subsets](https://github.com/jaheer02/LEETCODE_JOURNEY/tree/master/0078-subsets) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/jaheer02/LEETCODE_JOURNEY/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -39,6 +40,7 @@ My solutions to LeetCode problems in Java, focused on Data Structures and Algori
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/jaheer02/LEETCODE_JOURNEY/tree/master/0001-two-sum) |
 | [0041-first-missing-positive](https://github.com/jaheer02/LEETCODE_JOURNEY/tree/master/0041-first-missing-positive) |
 | [0229-majority-element-ii](https://github.com/jaheer02/LEETCODE_JOURNEY/tree/master/0229-majority-element-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/jaheer02/LEETCODE_JOURNEY/tree/master/0350-intersection-of-two-arrays-ii) |
